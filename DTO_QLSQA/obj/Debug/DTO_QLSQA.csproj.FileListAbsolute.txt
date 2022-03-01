@@ -1,0 +1,24 @@
+C:\Users\rotkb\OneDrive\Desktop\Hocki4\Du_An1\Nhóm\GUI_QLSQA\GUI_QLSQA\DTO_QLSQA\bin\Debug\DTO_QLSQA.dll
+C:\Users\rotkb\OneDrive\Desktop\Hocki4\Du_An1\Nhóm\GUI_QLSQA\GUI_QLSQA\DTO_QLSQA\bin\Debug\DTO_QLSQA.pdb
+C:\Users\rotkb\OneDrive\Desktop\Hocki4\Du_An1\Nhóm\GUI_QLSQA\GUI_QLSQA\DTO_QLSQA\obj\Debug\DTO_QLSQA.csproj.AssemblyReference.cache
+C:\Users\rotkb\OneDrive\Desktop\Hocki4\Du_An1\Nhóm\GUI_QLSQA\GUI_QLSQA\DTO_QLSQA\obj\Debug\DTO_QLSQA.csproj.CoreCompileInputs.cache
+C:\Users\rotkb\OneDrive\Desktop\Hocki4\Du_An1\Nhóm\GUI_QLSQA\GUI_QLSQA\DTO_QLSQA\obj\Debug\DTO_QLSQA.dll
+C:\Users\rotkb\OneDrive\Desktop\Hocki4\Du_An1\Nhóm\GUI_QLSQA\GUI_QLSQA\DTO_QLSQA\obj\Debug\DTO_QLSQA.pdb
+C:\Users\longnh\Desktop\Hocki4\Du_An1\Nhóm\GUI_QLSQA\GUI_QLSQA\DTO_QLSQA\bin\Debug\DTO_QLSQA.dll
+C:\Users\longnh\Desktop\Hocki4\Du_An1\Nhóm\GUI_QLSQA\GUI_QLSQA\DTO_QLSQA\bin\Debug\DTO_QLSQA.pdb
+C:\Users\longnh\Desktop\Hocki4\Du_An1\Nhóm\GUI_QLSQA\GUI_QLSQA\DTO_QLSQA\obj\Debug\DTO_QLSQA.csproj.CoreCompileInputs.cache
+C:\Users\longnh\Desktop\Hocki4\Du_An1\Nhóm\GUI_QLSQA\GUI_QLSQA\DTO_QLSQA\obj\Debug\DTO_QLSQA.dll
+C:\Users\longnh\Desktop\Hocki4\Du_An1\Nhóm\GUI_QLSQA\GUI_QLSQA\DTO_QLSQA\obj\Debug\DTO_QLSQA.pdb
+C:\Users\longnh\Desktop\Hocki4\Du_An1\Nhóm\GUI_QLSQA\GUI_QLSQA\DTO_QLSQA\obj\Debug\DTO_QLSQA.csproj.AssemblyReference.cache
+D:\BaiHoc\Mới\GUI_QLSQA\DTO_QLSQA\bin\Debug\DTO_QLSQA.dll
+D:\BaiHoc\Mới\GUI_QLSQA\DTO_QLSQA\bin\Debug\DTO_QLSQA.pdb
+D:\BaiHoc\Mới\GUI_QLSQA\DTO_QLSQA\obj\Debug\DTO_QLSQA.csproj.AssemblyReference.cache
+D:\BaiHoc\Mới\GUI_QLSQA\DTO_QLSQA\obj\Debug\DTO_QLSQA.csproj.CoreCompileInputs.cache
+D:\BaiHoc\Mới\GUI_QLSQA\DTO_QLSQA\obj\Debug\DTO_QLSQA.dll
+D:\BaiHoc\Mới\GUI_QLSQA\DTO_QLSQA\obj\Debug\DTO_QLSQA.pdb
+C:\Users\ASUS\Desktop\For_Study\Hocki4\Du_An1\New folder\GUI_QLSQA\DTO_QLSQA\bin\Debug\DTO_QLSQA.dll
+C:\Users\ASUS\Desktop\For_Study\Hocki4\Du_An1\New folder\GUI_QLSQA\DTO_QLSQA\bin\Debug\DTO_QLSQA.pdb
+C:\Users\ASUS\Desktop\For_Study\Hocki4\Du_An1\New folder\GUI_QLSQA\DTO_QLSQA\obj\Debug\DTO_QLSQA.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\For_Study\Hocki4\Du_An1\New folder\GUI_QLSQA\DTO_QLSQA\obj\Debug\DTO_QLSQA.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\For_Study\Hocki4\Du_An1\New folder\GUI_QLSQA\DTO_QLSQA\obj\Debug\DTO_QLSQA.dll
+C:\Users\ASUS\Desktop\For_Study\Hocki4\Du_An1\New folder\GUI_QLSQA\DTO_QLSQA\obj\Debug\DTO_QLSQA.pdb

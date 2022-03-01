@@ -1,0 +1,11 @@
+C:\Users\longnh\Desktop\xuatfile\GUI_QLSQA\BUS_QLSQA\bin\Release\BUS_QLSQA.dll
+C:\Users\longnh\Desktop\xuatfile\GUI_QLSQA\BUS_QLSQA\bin\Release\BUS_QLSQA.pdb
+C:\Users\longnh\Desktop\xuatfile\GUI_QLSQA\BUS_QLSQA\bin\Release\DAO_QLSQA.dll
+C:\Users\longnh\Desktop\xuatfile\GUI_QLSQA\BUS_QLSQA\bin\Release\DTO_QLSQA.dll
+C:\Users\longnh\Desktop\xuatfile\GUI_QLSQA\BUS_QLSQA\bin\Release\DAO_QLSQA.pdb
+C:\Users\longnh\Desktop\xuatfile\GUI_QLSQA\BUS_QLSQA\bin\Release\DTO_QLSQA.pdb
+C:\Users\longnh\Desktop\xuatfile\GUI_QLSQA\BUS_QLSQA\obj\Release\BUS_QLSQA.csproj.AssemblyReference.cache
+C:\Users\longnh\Desktop\xuatfile\GUI_QLSQA\BUS_QLSQA\obj\Release\BUS_QLSQA.csproj.CoreCompileInputs.cache
+C:\Users\longnh\Desktop\xuatfile\GUI_QLSQA\BUS_QLSQA\obj\Release\BUS_QLSQA.csproj.CopyComplete
+C:\Users\longnh\Desktop\xuatfile\GUI_QLSQA\BUS_QLSQA\obj\Release\BUS_QLSQA.dll
+C:\Users\longnh\Desktop\xuatfile\GUI_QLSQA\BUS_QLSQA\obj\Release\BUS_QLSQA.pdb

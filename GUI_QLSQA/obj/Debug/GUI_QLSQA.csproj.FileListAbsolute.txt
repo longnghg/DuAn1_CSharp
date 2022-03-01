@@ -1,0 +1,376 @@
+C:\Users\rotkb\OneDrive\Desktop\Hocki4\Du_An1\Nhóm\GUI_QLSQA\GUI_QLSQA\GUI_QLSQA\bin\Debug\GUI_QLSQA.exe.config
+C:\Users\rotkb\OneDrive\Desktop\Hocki4\Du_An1\Nhóm\GUI_QLSQA\GUI_QLSQA\GUI_QLSQA\bin\Debug\GUI_QLSQA.exe
+C:\Users\rotkb\OneDrive\Desktop\Hocki4\Du_An1\Nhóm\GUI_QLSQA\GUI_QLSQA\GUI_QLSQA\bin\Debug\GUI_QLSQA.pdb
+C:\Users\rotkb\OneDrive\Desktop\Hocki4\Du_An1\Nhóm\GUI_QLSQA\GUI_QLSQA\GUI_QLSQA\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\rotkb\OneDrive\Desktop\Hocki4\Du_An1\Nhóm\GUI_QLSQA\GUI_QLSQA\GUI_QLSQA\obj\Debug\GUI_QLSQA.csproj.AssemblyReference.cache
+C:\Users\rotkb\OneDrive\Desktop\Hocki4\Du_An1\Nhóm\GUI_QLSQA\GUI_QLSQA\GUI_QLSQA\obj\Debug\GUI_QLSQA.Properties.Resources.resources
+C:\Users\rotkb\OneDrive\Desktop\Hocki4\Du_An1\Nhóm\GUI_QLSQA\GUI_QLSQA\GUI_QLSQA\obj\Debug\GUI_QLSQA.csproj.GenerateResource.cache
+C:\Users\rotkb\OneDrive\Desktop\Hocki4\Du_An1\Nhóm\GUI_QLSQA\GUI_QLSQA\GUI_QLSQA\obj\Debug\GUI_QLSQA.csproj.CoreCompileInputs.cache
+C:\Users\rotkb\OneDrive\Desktop\Hocki4\Du_An1\Nhóm\GUI_QLSQA\GUI_QLSQA\GUI_QLSQA\obj\Debug\GUI_QLSQA.exe
+C:\Users\rotkb\OneDrive\Desktop\Hocki4\Du_An1\Nhóm\GUI_QLSQA\GUI_QLSQA\GUI_QLSQA\obj\Debug\GUI_QLSQA.pdb
+C:\Users\rotkb\OneDrive\Desktop\Hocki4\Du_An1\Nhóm\GUI_QLSQA\GUI_QLSQA\GUI_QLSQA\obj\Debug\GUI_QLSQA.FLogin.resources
+C:\Users\rotkb\OneDrive\Desktop\Hocki4\Du_An1\Nhóm\GUI_QLSQA\GUI_QLSQA\GUI_QLSQA\obj\Debug\GUI_QLSQA.FMain.resources
+C:\Users\rotkb\OneDrive\Desktop\Hocki4\Du_An1\Nhóm\GUI_QLSQA\GUI_QLSQA\GUI_QLSQA\obj\Debug\GUI_QLSQA.FDanhsachhoaDon.resources
+C:\Users\rotkb\OneDrive\Desktop\Hocki4\Du_An1\Nhóm\GUI_QLSQA\GUI_QLSQA\GUI_QLSQA\obj\Debug\GUI_QLSQA.FDoanhThu.resources
+C:\Users\rotkb\OneDrive\Desktop\Hocki4\Du_An1\Nhóm\GUI_QLSQA\GUI_QLSQA\GUI_QLSQA\obj\Debug\GUI_QLSQA.FKhachhang.resources
+C:\Users\rotkb\OneDrive\Desktop\Hocki4\Du_An1\Nhóm\GUI_QLSQA\GUI_QLSQA\GUI_QLSQA\obj\Debug\GUI_QLSQA.FMucluc.resources
+C:\Users\rotkb\OneDrive\Desktop\Hocki4\Du_An1\Nhóm\GUI_QLSQA\GUI_QLSQA\GUI_QLSQA\obj\Debug\GUI_QLSQA.FNhanvien.resources
+C:\Users\rotkb\OneDrive\Desktop\Hocki4\Du_An1\Nhóm\GUI_QLSQA\GUI_QLSQA\GUI_QLSQA\obj\Debug\GUI_QLSQA.FSanpham.resources
+C:\Users\rotkb\OneDrive\Desktop\Hocki4\Du_An1\Nhóm\GUI_QLSQA\GUI_QLSQA\GUI_QLSQA\obj\Debug\GUI_QLSQA.FVanchuyen.resources
+C:\Users\rotkb\OneDrive\Desktop\Hocki4\Du_An1\Nhóm\GUI_QLSQA\GUI_QLSQA\GUI_QLSQA\obj\Debug\GUI_QLSQA.FDSSanpham.resources
+C:\Users\rotkb\OneDrive\Desktop\Hocki4\Du_An1\Nhóm\GUI_QLSQA\GUI_QLSQA\GUI_QLSQA\bin\Debug\BUS_QLSQA.dll
+C:\Users\rotkb\OneDrive\Desktop\Hocki4\Du_An1\Nhóm\GUI_QLSQA\GUI_QLSQA\GUI_QLSQA\bin\Debug\DTO_QLSQA.dll
+C:\Users\rotkb\OneDrive\Desktop\Hocki4\Du_An1\Nhóm\GUI_QLSQA\GUI_QLSQA\GUI_QLSQA\bin\Debug\DAO_QLSQA.dll
+C:\Users\rotkb\OneDrive\Desktop\Hocki4\Du_An1\Nhóm\GUI_QLSQA\GUI_QLSQA\GUI_QLSQA\bin\Debug\BUS_QLSQA.pdb
+C:\Users\rotkb\OneDrive\Desktop\Hocki4\Du_An1\Nhóm\GUI_QLSQA\GUI_QLSQA\GUI_QLSQA\bin\Debug\DTO_QLSQA.pdb
+C:\Users\rotkb\OneDrive\Desktop\Hocki4\Du_An1\Nhóm\GUI_QLSQA\GUI_QLSQA\GUI_QLSQA\bin\Debug\DAO_QLSQA.pdb
+C:\Users\rotkb\OneDrive\Desktop\Hocki4\Du_An1\Nhóm\GUI_QLSQA\GUI_QLSQA\GUI_QLSQA\obj\Debug\GUI_QLSQA.FThongtinNV.resources
+C:\Users\rotkb\OneDrive\Desktop\Hocki4\Du_An1\Nhóm\GUI_QLSQA\GUI_QLSQA\GUI_QLSQA\obj\Debug\GUI_QLSQA.FThanhToans.resources
+C:\Users\rotkb\OneDrive\Desktop\Hocki4\Du_An1\Nhóm\GUI_QLSQA\GUI_QLSQA\GUI_QLSQA\obj\Debug\GUI_QLSQA.FDoimatkhau.resources
+C:\Users\rotkb\OneDrive\Desktop\Hocki4\Du_An1\Nhóm\GUI_QLSQA\GUI_QLSQA\GUI_QLSQA\obj\Debug\GUI_QLSQA.FChiTietSP.resources
+C:\Users\rotkb\OneDrive\Desktop\Hocki4\Du_An1\Nhóm\GUI_QLSQA\GUI_QLSQA\GUI_QLSQA\obj\Debug\GUI_QLSQA.FXacNhanQMK.resources
+C:\Users\longnh\Desktop\Hocki4\Du_An1\Nhóm\GUI_QLSQA\GUI_QLSQA\GUI_QLSQA\bin\Debug\GUI_QLSQA.exe.config
+C:\Users\longnh\Desktop\Hocki4\Du_An1\Nhóm\GUI_QLSQA\GUI_QLSQA\GUI_QLSQA\bin\Debug\GUI_QLSQA.exe
+C:\Users\longnh\Desktop\Hocki4\Du_An1\Nhóm\GUI_QLSQA\GUI_QLSQA\GUI_QLSQA\bin\Debug\GUI_QLSQA.pdb
+C:\Users\longnh\Desktop\Hocki4\Du_An1\Nhóm\GUI_QLSQA\GUI_QLSQA\GUI_QLSQA\bin\Debug\BUS_QLSQA.dll
+C:\Users\longnh\Desktop\Hocki4\Du_An1\Nhóm\GUI_QLSQA\GUI_QLSQA\GUI_QLSQA\bin\Debug\DTO_QLSQA.dll
+C:\Users\longnh\Desktop\Hocki4\Du_An1\Nhóm\GUI_QLSQA\GUI_QLSQA\GUI_QLSQA\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\longnh\Desktop\Hocki4\Du_An1\Nhóm\GUI_QLSQA\GUI_QLSQA\GUI_QLSQA\bin\Debug\DAO_QLSQA.dll
+C:\Users\longnh\Desktop\Hocki4\Du_An1\Nhóm\GUI_QLSQA\GUI_QLSQA\GUI_QLSQA\bin\Debug\BUS_QLSQA.pdb
+C:\Users\longnh\Desktop\Hocki4\Du_An1\Nhóm\GUI_QLSQA\GUI_QLSQA\GUI_QLSQA\bin\Debug\DTO_QLSQA.pdb
+C:\Users\longnh\Desktop\Hocki4\Du_An1\Nhóm\GUI_QLSQA\GUI_QLSQA\GUI_QLSQA\bin\Debug\DAO_QLSQA.pdb
+C:\Users\longnh\Desktop\Hocki4\Du_An1\Nhóm\GUI_QLSQA\GUI_QLSQA\GUI_QLSQA\obj\Debug\GUI_QLSQA.csproj.AssemblyReference.cache
+C:\Users\longnh\Desktop\Hocki4\Du_An1\Nhóm\GUI_QLSQA\GUI_QLSQA\GUI_QLSQA\obj\Debug\GUI_QLSQA.FChiTietSP.resources
+C:\Users\longnh\Desktop\Hocki4\Du_An1\Nhóm\GUI_QLSQA\GUI_QLSQA\GUI_QLSQA\obj\Debug\GUI_QLSQA.FDanhsachhoaDon.resources
+C:\Users\longnh\Desktop\Hocki4\Du_An1\Nhóm\GUI_QLSQA\GUI_QLSQA\GUI_QLSQA\obj\Debug\GUI_QLSQA.FDoanhThu.resources
+C:\Users\longnh\Desktop\Hocki4\Du_An1\Nhóm\GUI_QLSQA\GUI_QLSQA\GUI_QLSQA\obj\Debug\GUI_QLSQA.FDoimatkhau.resources
+C:\Users\longnh\Desktop\Hocki4\Du_An1\Nhóm\GUI_QLSQA\GUI_QLSQA\GUI_QLSQA\obj\Debug\GUI_QLSQA.FDSSanpham.resources
+C:\Users\longnh\Desktop\Hocki4\Du_An1\Nhóm\GUI_QLSQA\GUI_QLSQA\GUI_QLSQA\obj\Debug\GUI_QLSQA.FKhachhang.resources
+C:\Users\longnh\Desktop\Hocki4\Du_An1\Nhóm\GUI_QLSQA\GUI_QLSQA\GUI_QLSQA\obj\Debug\GUI_QLSQA.FLogin.resources
+C:\Users\longnh\Desktop\Hocki4\Du_An1\Nhóm\GUI_QLSQA\GUI_QLSQA\GUI_QLSQA\obj\Debug\GUI_QLSQA.FMucluc.resources
+C:\Users\longnh\Desktop\Hocki4\Du_An1\Nhóm\GUI_QLSQA\GUI_QLSQA\GUI_QLSQA\obj\Debug\GUI_QLSQA.FNhanvien.resources
+C:\Users\longnh\Desktop\Hocki4\Du_An1\Nhóm\GUI_QLSQA\GUI_QLSQA\GUI_QLSQA\obj\Debug\GUI_QLSQA.FSanpham.resources
+C:\Users\longnh\Desktop\Hocki4\Du_An1\Nhóm\GUI_QLSQA\GUI_QLSQA\GUI_QLSQA\obj\Debug\GUI_QLSQA.FThanhToans.resources
+C:\Users\longnh\Desktop\Hocki4\Du_An1\Nhóm\GUI_QLSQA\GUI_QLSQA\GUI_QLSQA\obj\Debug\GUI_QLSQA.FThongtinNV.resources
+C:\Users\longnh\Desktop\Hocki4\Du_An1\Nhóm\GUI_QLSQA\GUI_QLSQA\GUI_QLSQA\obj\Debug\GUI_QLSQA.FVanchuyen.resources
+C:\Users\longnh\Desktop\Hocki4\Du_An1\Nhóm\GUI_QLSQA\GUI_QLSQA\GUI_QLSQA\obj\Debug\GUI_QLSQA.FXacNhanQMK.resources
+C:\Users\longnh\Desktop\Hocki4\Du_An1\Nhóm\GUI_QLSQA\GUI_QLSQA\GUI_QLSQA\obj\Debug\GUI_QLSQA.Properties.Resources.resources
+C:\Users\longnh\Desktop\Hocki4\Du_An1\Nhóm\GUI_QLSQA\GUI_QLSQA\GUI_QLSQA\obj\Debug\GUI_QLSQA.csproj.GenerateResource.cache
+C:\Users\longnh\Desktop\Hocki4\Du_An1\Nhóm\GUI_QLSQA\GUI_QLSQA\GUI_QLSQA\obj\Debug\GUI_QLSQA.csproj.CoreCompileInputs.cache
+C:\Users\longnh\Desktop\Hocki4\Du_An1\Nhóm\GUI_QLSQA\GUI_QLSQA\GUI_QLSQA\obj\Debug\GUI_QLSQA.csproj.CopyComplete
+C:\Users\longnh\Desktop\Hocki4\Du_An1\Nhóm\GUI_QLSQA\GUI_QLSQA\GUI_QLSQA\obj\Debug\GUI_QLSQA.exe
+C:\Users\longnh\Desktop\Hocki4\Du_An1\Nhóm\GUI_QLSQA\GUI_QLSQA\GUI_QLSQA\obj\Debug\GUI_QLSQA.pdb
+C:\Users\longnh\Desktop\Hocki4\Du_An1\Nhóm\GUI_QLSQA\GUI_QLSQA\GUI_QLSQA\obj\Debug\GUI_QLSQA.FQLGiamGia.resources
+C:\Users\longnh\Desktop\Hocki4\Du_An1\Nhóm\GUI_QLSQA\GUI_QLSQA\GUI_QLSQA\obj\Debug\GUI_QLSQA.FChinhSuaCTDVC.resources
+C:\Users\longnh\Desktop\Hocki4\Du_An1\Nhóm\GUI_QLSQA\GUI_QLSQA\GUI_QLSQA\obj\Debug\GUI_QLSQA.Controls.RJTextbox.resources
+C:\Users\longnh\Desktop\Hocki4\Du_An1\Nhóm\GUI_QLSQA\GUI_QLSQA\GUI_QLSQA\obj\Debug\GUI_QLSQA.FMainnew.resources
+C:\Users\longnh\Desktop\Hocki4\Du_An1\Nhóm\GUI_QLSQA\GUI_QLSQA\GUI_QLSQA\obj\Debug\GUI_QLSQA.FAddKH.resources
+C:\Users\longnh\Desktop\Hocki4\Du_An1\Nhóm\GUI_QLSQA\GUI_QLSQA\GUI_QLSQA\obj\Debug\GUI_QLSQA.FHienthiChiTietBill.resources
+C:\Users\longnh\Desktop\Hocki4\Du_An1\Nhóm\GUI_QLSQA\GUI_QLSQA\GUI_QLSQA\obj\Debug\GUI_QLSQA.FThongKeCT.resources
+C:\Users\longnh\Desktop\Hocki4\Du_An1\Nhóm\GUI_QLSQA\GUI_QLSQA\GUI_QLSQA\obj\Debug\GUI_QLSQA.csproj.ResolveComReference.cache
+C:\Users\longnh\Desktop\Hocki4\Du_An1\Nhóm\GUI_QLSQA\GUI_QLSQA\GUI_QLSQA\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\longnh\Desktop\Hocki4\Du_An1\Nhóm\GUI_QLSQA\GUI_QLSQA\GUI_QLSQA\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\longnh\Desktop\Hocki4\Du_An1\Nhóm\GUI_QLSQA\GUI_QLSQA\GUI_QLSQA\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\longnh\Desktop\Hocki4\Du_An1\Nhóm\GUI_QLSQA\GUI_QLSQA\GUI_QLSQA\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\longnh\Desktop\Hocki4\Du_An1\Nhóm\GUI_QLSQA\GUI_QLSQA\GUI_QLSQA\bin\Debug\EPPlus.dll
+C:\Users\longnh\Desktop\Hocki4\Du_An1\Nhóm\GUI_QLSQA\GUI_QLSQA\GUI_QLSQA\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\longnh\Desktop\Hocki4\Du_An1\Nhóm\GUI_QLSQA\GUI_QLSQA\GUI_QLSQA\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\longnh\Desktop\Hocki4\Du_An1\Nhóm\GUI_QLSQA\GUI_QLSQA\GUI_QLSQA\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\longnh\Desktop\Hocki4\Du_An1\Nhóm\GUI_QLSQA\GUI_QLSQA\GUI_QLSQA\bin\Debug\EPPlus.xml
+C:\Users\longnh\Desktop\Hocki4\Du_An1\Nhóm\GUI_QLSQA\GUI_QLSQA\GUI_QLSQA\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\longnh\Desktop\Hocki4\Du_An1\Nhóm\GUI_QLSQA\GUI_QLSQA\GUI_QLSQA\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\longnh\Desktop\Hocki4\Du_An1\Nhóm\GUI_QLSQA\GUI_QLSQA\GUI_QLSQA\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\longnh\Desktop\Hocki4\Du_An1\Nhóm\GUI_QLSQA\GUI_QLSQA\GUI_QLSQA\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\longnh\Desktop\Hocki4\Du_An1\Nhóm\GUI_QLSQA\GUI_QLSQA\GUI_QLSQA\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\longnh\Desktop\Hocki4\Du_An1\Nhóm\GUI_QLSQA\GUI_QLSQA\GUI_QLSQA\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\longnh\Desktop\Hocki4\Du_An1\Nhóm\GUI_QLSQA\GUI_QLSQA\GUI_QLSQA\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\longnh\Desktop\Hocki4\Du_An1\Nhóm\GUI_QLSQA\GUI_QLSQA\GUI_QLSQA\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\longnh\Desktop\Hocki4\Du_An1\Nhóm\GUI_QLSQA\GUI_QLSQA\GUI_QLSQA\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\longnh\Desktop\Hocki4\Du_An1\Nhóm\GUI_QLSQA\GUI_QLSQA\GUI_QLSQA\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\longnh\Desktop\Hocki4\Du_An1\Nhóm\GUI_QLSQA\GUI_QLSQA\GUI_QLSQA\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\longnh\Desktop\Hocki4\Du_An1\Nhóm\GUI_QLSQA\GUI_QLSQA\GUI_QLSQA\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\longnh\Desktop\Hocki4\Du_An1\Nhóm\GUI_QLSQA\GUI_QLSQA\GUI_QLSQA\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\longnh\Desktop\Hocki4\Du_An1\Nhóm\GUI_QLSQA\GUI_QLSQA\GUI_QLSQA\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\longnh\Desktop\Hocki4\Du_An1\Nhóm\GUI_QLSQA\GUI_QLSQA\GUI_QLSQA\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\longnh\Desktop\Hocki4\Du_An1\Nhóm\GUI_QLSQA\GUI_QLSQA\GUI_QLSQA\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\longnh\Desktop\Hocki4\Du_An1\Nhóm\GUI_QLSQA\GUI_QLSQA\GUI_QLSQA\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\longnh\Desktop\Hocki4\Du_An1\Nhóm\GUI_QLSQA\GUI_QLSQA\GUI_QLSQA\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\longnh\Desktop\Hocki4\Du_An1\Nhóm\GUI_QLSQA\GUI_QLSQA\GUI_QLSQA\bin\Debug\stdole.dll
+C:\Users\longnh\Desktop\Hocki4\Du_An1\Nhóm\GUI_QLSQA\GUI_QLSQA\GUI_QLSQA\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\BaiHoc\Mới\GUI_QLSQA\GUI_QLSQA\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\BaiHoc\Mới\GUI_QLSQA\GUI_QLSQA\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\BaiHoc\Mới\GUI_QLSQA\GUI_QLSQA\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\BaiHoc\Mới\GUI_QLSQA\GUI_QLSQA\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\BaiHoc\Mới\GUI_QLSQA\GUI_QLSQA\bin\Debug\GUI_QLSQA.exe.config
+D:\BaiHoc\Mới\GUI_QLSQA\GUI_QLSQA\bin\Debug\GUI_QLSQA.exe
+D:\BaiHoc\Mới\GUI_QLSQA\GUI_QLSQA\bin\Debug\GUI_QLSQA.pdb
+D:\BaiHoc\Mới\GUI_QLSQA\GUI_QLSQA\bin\Debug\AxShockwaveFlashObjects.dll
+D:\BaiHoc\Mới\GUI_QLSQA\GUI_QLSQA\bin\Debug\BUS_QLSQA.dll
+D:\BaiHoc\Mới\GUI_QLSQA\GUI_QLSQA\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\BaiHoc\Mới\GUI_QLSQA\GUI_QLSQA\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\BaiHoc\Mới\GUI_QLSQA\GUI_QLSQA\bin\Debug\CrystalDecisions.Shared.dll
+D:\BaiHoc\Mới\GUI_QLSQA\GUI_QLSQA\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\BaiHoc\Mới\GUI_QLSQA\GUI_QLSQA\bin\Debug\DTO_QLSQA.dll
+D:\BaiHoc\Mới\GUI_QLSQA\GUI_QLSQA\bin\Debug\EPPlus.dll
+D:\BaiHoc\Mới\GUI_QLSQA\GUI_QLSQA\bin\Debug\FontAwesome.Sharp.dll
+D:\BaiHoc\Mới\GUI_QLSQA\GUI_QLSQA\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+D:\BaiHoc\Mới\GUI_QLSQA\GUI_QLSQA\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\BaiHoc\Mới\GUI_QLSQA\GUI_QLSQA\bin\Debug\System.ComponentModel.Annotations.dll
+D:\BaiHoc\Mới\GUI_QLSQA\GUI_QLSQA\bin\Debug\DAO_QLSQA.dll
+D:\BaiHoc\Mới\GUI_QLSQA\GUI_QLSQA\bin\Debug\ShockwaveFlashObjects.dll
+D:\BaiHoc\Mới\GUI_QLSQA\GUI_QLSQA\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\BaiHoc\Mới\GUI_QLSQA\GUI_QLSQA\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\BaiHoc\Mới\GUI_QLSQA\GUI_QLSQA\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\BaiHoc\Mới\GUI_QLSQA\GUI_QLSQA\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\BaiHoc\Mới\GUI_QLSQA\GUI_QLSQA\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\BaiHoc\Mới\GUI_QLSQA\GUI_QLSQA\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\BaiHoc\Mới\GUI_QLSQA\GUI_QLSQA\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\BaiHoc\Mới\GUI_QLSQA\GUI_QLSQA\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\BaiHoc\Mới\GUI_QLSQA\GUI_QLSQA\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\BaiHoc\Mới\GUI_QLSQA\GUI_QLSQA\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\BaiHoc\Mới\GUI_QLSQA\GUI_QLSQA\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\BaiHoc\Mới\GUI_QLSQA\GUI_QLSQA\bin\Debug\stdole.dll
+D:\BaiHoc\Mới\GUI_QLSQA\GUI_QLSQA\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\BaiHoc\Mới\GUI_QLSQA\GUI_QLSQA\bin\Debug\BUS_QLSQA.pdb
+D:\BaiHoc\Mới\GUI_QLSQA\GUI_QLSQA\bin\Debug\DTO_QLSQA.pdb
+D:\BaiHoc\Mới\GUI_QLSQA\GUI_QLSQA\bin\Debug\EPPlus.xml
+D:\BaiHoc\Mới\GUI_QLSQA\GUI_QLSQA\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+D:\BaiHoc\Mới\GUI_QLSQA\GUI_QLSQA\bin\Debug\DAO_QLSQA.pdb
+D:\BaiHoc\Mới\GUI_QLSQA\GUI_QLSQA\obj\Debug\GUI_QLSQA.csproj.AssemblyReference.cache
+D:\BaiHoc\Mới\GUI_QLSQA\GUI_QLSQA\obj\Debug\GUI_QLSQA.csproj.ResolveComReference.cache
+D:\BaiHoc\Mới\GUI_QLSQA\GUI_QLSQA\obj\Debug\GUI_QLSQA.Controls.RJTextbox.resources
+D:\BaiHoc\Mới\GUI_QLSQA\GUI_QLSQA\obj\Debug\GUI_QLSQA.FAddKH.resources
+D:\BaiHoc\Mới\GUI_QLSQA\GUI_QLSQA\obj\Debug\GUI_QLSQA.FChinhSuaCTDVC.resources
+D:\BaiHoc\Mới\GUI_QLSQA\GUI_QLSQA\obj\Debug\GUI_QLSQA.FChiTietSP.resources
+D:\BaiHoc\Mới\GUI_QLSQA\GUI_QLSQA\obj\Debug\GUI_QLSQA.FDanhsachhoaDon.resources
+D:\BaiHoc\Mới\GUI_QLSQA\GUI_QLSQA\obj\Debug\GUI_QLSQA.FDoanhThu.resources
+D:\BaiHoc\Mới\GUI_QLSQA\GUI_QLSQA\obj\Debug\GUI_QLSQA.FDoimatkhau.resources
+D:\BaiHoc\Mới\GUI_QLSQA\GUI_QLSQA\obj\Debug\GUI_QLSQA.FDSSanpham.resources
+D:\BaiHoc\Mới\GUI_QLSQA\GUI_QLSQA\obj\Debug\GUI_QLSQA.FHienthiChiTietBill.resources
+D:\BaiHoc\Mới\GUI_QLSQA\GUI_QLSQA\obj\Debug\GUI_QLSQA.FKhachhang.resources
+D:\BaiHoc\Mới\GUI_QLSQA\GUI_QLSQA\obj\Debug\GUI_QLSQA.FLogin.resources
+D:\BaiHoc\Mới\GUI_QLSQA\GUI_QLSQA\obj\Debug\GUI_QLSQA.FMainnew.resources
+D:\BaiHoc\Mới\GUI_QLSQA\GUI_QLSQA\obj\Debug\GUI_QLSQA.FMucluc.resources
+D:\BaiHoc\Mới\GUI_QLSQA\GUI_QLSQA\obj\Debug\GUI_QLSQA.FNhanvien.resources
+D:\BaiHoc\Mới\GUI_QLSQA\GUI_QLSQA\obj\Debug\GUI_QLSQA.FQLGiamGia.resources
+D:\BaiHoc\Mới\GUI_QLSQA\GUI_QLSQA\obj\Debug\GUI_QLSQA.FSanpham.resources
+D:\BaiHoc\Mới\GUI_QLSQA\GUI_QLSQA\obj\Debug\GUI_QLSQA.FThanhToans.resources
+D:\BaiHoc\Mới\GUI_QLSQA\GUI_QLSQA\obj\Debug\GUI_QLSQA.FThongKeCT.resources
+D:\BaiHoc\Mới\GUI_QLSQA\GUI_QLSQA\obj\Debug\GUI_QLSQA.FThongtinNV.resources
+D:\BaiHoc\Mới\GUI_QLSQA\GUI_QLSQA\obj\Debug\GUI_QLSQA.FVanchuyen.resources
+D:\BaiHoc\Mới\GUI_QLSQA\GUI_QLSQA\obj\Debug\GUI_QLSQA.FXacNhanQMK.resources
+D:\BaiHoc\Mới\GUI_QLSQA\GUI_QLSQA\obj\Debug\GUI_QLSQA.Properties.Resources.resources
+D:\BaiHoc\Mới\GUI_QLSQA\GUI_QLSQA\obj\Debug\GUI_QLSQA.csproj.GenerateResource.cache
+D:\BaiHoc\Mới\GUI_QLSQA\GUI_QLSQA\obj\Debug\GUI_QLSQA.csproj.CoreCompileInputs.cache
+D:\BaiHoc\Mới\GUI_QLSQA\GUI_QLSQA\obj\Debug\GUI_QLSQA.csproj.CopyComplete
+D:\BaiHoc\Mới\GUI_QLSQA\GUI_QLSQA\obj\Debug\GUI_QLSQA.exe
+D:\BaiHoc\Mới\GUI_QLSQA\GUI_QLSQA\obj\Debug\GUI_QLSQA.pdb
+D:\BaiHoc\Mới\GUI_QLSQA\GUI_QLSQA\obj\Debug\GUI_QLSQA.FReportHDCT.resources
+C:\Users\longnh\Desktop\xuatfile\GUI_QLSQA\GUI_QLSQA\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\longnh\Desktop\xuatfile\GUI_QLSQA\GUI_QLSQA\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\longnh\Desktop\xuatfile\GUI_QLSQA\GUI_QLSQA\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\longnh\Desktop\xuatfile\GUI_QLSQA\GUI_QLSQA\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\longnh\Desktop\xuatfile\GUI_QLSQA\GUI_QLSQA\bin\Debug\GUI_QLSQA.exe.config
+C:\Users\longnh\Desktop\xuatfile\GUI_QLSQA\GUI_QLSQA\bin\Debug\GUI_QLSQA.exe
+C:\Users\longnh\Desktop\xuatfile\GUI_QLSQA\GUI_QLSQA\bin\Debug\GUI_QLSQA.pdb
+C:\Users\longnh\Desktop\xuatfile\GUI_QLSQA\GUI_QLSQA\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\longnh\Desktop\xuatfile\GUI_QLSQA\GUI_QLSQA\bin\Debug\BUS_QLSQA.dll
+C:\Users\longnh\Desktop\xuatfile\GUI_QLSQA\GUI_QLSQA\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\longnh\Desktop\xuatfile\GUI_QLSQA\GUI_QLSQA\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\longnh\Desktop\xuatfile\GUI_QLSQA\GUI_QLSQA\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\longnh\Desktop\xuatfile\GUI_QLSQA\GUI_QLSQA\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\longnh\Desktop\xuatfile\GUI_QLSQA\GUI_QLSQA\bin\Debug\DTO_QLSQA.dll
+C:\Users\longnh\Desktop\xuatfile\GUI_QLSQA\GUI_QLSQA\bin\Debug\EPPlus.dll
+C:\Users\longnh\Desktop\xuatfile\GUI_QLSQA\GUI_QLSQA\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\longnh\Desktop\xuatfile\GUI_QLSQA\GUI_QLSQA\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\longnh\Desktop\xuatfile\GUI_QLSQA\GUI_QLSQA\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\longnh\Desktop\xuatfile\GUI_QLSQA\GUI_QLSQA\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\longnh\Desktop\xuatfile\GUI_QLSQA\GUI_QLSQA\bin\Debug\DAO_QLSQA.dll
+C:\Users\longnh\Desktop\xuatfile\GUI_QLSQA\GUI_QLSQA\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\longnh\Desktop\xuatfile\GUI_QLSQA\GUI_QLSQA\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\longnh\Desktop\xuatfile\GUI_QLSQA\GUI_QLSQA\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\longnh\Desktop\xuatfile\GUI_QLSQA\GUI_QLSQA\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\longnh\Desktop\xuatfile\GUI_QLSQA\GUI_QLSQA\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\longnh\Desktop\xuatfile\GUI_QLSQA\GUI_QLSQA\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\longnh\Desktop\xuatfile\GUI_QLSQA\GUI_QLSQA\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\longnh\Desktop\xuatfile\GUI_QLSQA\GUI_QLSQA\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\longnh\Desktop\xuatfile\GUI_QLSQA\GUI_QLSQA\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\longnh\Desktop\xuatfile\GUI_QLSQA\GUI_QLSQA\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\longnh\Desktop\xuatfile\GUI_QLSQA\GUI_QLSQA\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\longnh\Desktop\xuatfile\GUI_QLSQA\GUI_QLSQA\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\longnh\Desktop\xuatfile\GUI_QLSQA\GUI_QLSQA\bin\Debug\stdole.dll
+C:\Users\longnh\Desktop\xuatfile\GUI_QLSQA\GUI_QLSQA\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\longnh\Desktop\xuatfile\GUI_QLSQA\GUI_QLSQA\bin\Debug\BUS_QLSQA.pdb
+C:\Users\longnh\Desktop\xuatfile\GUI_QLSQA\GUI_QLSQA\bin\Debug\DTO_QLSQA.pdb
+C:\Users\longnh\Desktop\xuatfile\GUI_QLSQA\GUI_QLSQA\bin\Debug\EPPlus.xml
+C:\Users\longnh\Desktop\xuatfile\GUI_QLSQA\GUI_QLSQA\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\longnh\Desktop\xuatfile\GUI_QLSQA\GUI_QLSQA\bin\Debug\DAO_QLSQA.pdb
+C:\Users\longnh\Desktop\xuatfile\GUI_QLSQA\GUI_QLSQA\obj\Debug\GUI_QLSQA.csproj.AssemblyReference.cache
+C:\Users\longnh\Desktop\xuatfile\GUI_QLSQA\GUI_QLSQA\obj\Debug\GUI_QLSQA.csproj.ResolveComReference.cache
+C:\Users\longnh\Desktop\xuatfile\GUI_QLSQA\GUI_QLSQA\obj\Debug\GUI_QLSQA.Controls.RJTextbox.resources
+C:\Users\longnh\Desktop\xuatfile\GUI_QLSQA\GUI_QLSQA\obj\Debug\GUI_QLSQA.FAddKH.resources
+C:\Users\longnh\Desktop\xuatfile\GUI_QLSQA\GUI_QLSQA\obj\Debug\GUI_QLSQA.FChinhSuaCTDVC.resources
+C:\Users\longnh\Desktop\xuatfile\GUI_QLSQA\GUI_QLSQA\obj\Debug\GUI_QLSQA.FChiTietSP.resources
+C:\Users\longnh\Desktop\xuatfile\GUI_QLSQA\GUI_QLSQA\obj\Debug\GUI_QLSQA.FDanhsachhoaDon.resources
+C:\Users\longnh\Desktop\xuatfile\GUI_QLSQA\GUI_QLSQA\obj\Debug\GUI_QLSQA.FDoanhThu.resources
+C:\Users\longnh\Desktop\xuatfile\GUI_QLSQA\GUI_QLSQA\obj\Debug\GUI_QLSQA.FDoimatkhau.resources
+C:\Users\longnh\Desktop\xuatfile\GUI_QLSQA\GUI_QLSQA\obj\Debug\GUI_QLSQA.FDSSanpham.resources
+C:\Users\longnh\Desktop\xuatfile\GUI_QLSQA\GUI_QLSQA\obj\Debug\GUI_QLSQA.FHienthiChiTietBill.resources
+C:\Users\longnh\Desktop\xuatfile\GUI_QLSQA\GUI_QLSQA\obj\Debug\GUI_QLSQA.FKhachhang.resources
+C:\Users\longnh\Desktop\xuatfile\GUI_QLSQA\GUI_QLSQA\obj\Debug\GUI_QLSQA.FLogin.resources
+C:\Users\longnh\Desktop\xuatfile\GUI_QLSQA\GUI_QLSQA\obj\Debug\GUI_QLSQA.FMainnew.resources
+C:\Users\longnh\Desktop\xuatfile\GUI_QLSQA\GUI_QLSQA\obj\Debug\GUI_QLSQA.FMucluc.resources
+C:\Users\longnh\Desktop\xuatfile\GUI_QLSQA\GUI_QLSQA\obj\Debug\GUI_QLSQA.FNhanvien.resources
+C:\Users\longnh\Desktop\xuatfile\GUI_QLSQA\GUI_QLSQA\obj\Debug\GUI_QLSQA.FQLGiamGia.resources
+C:\Users\longnh\Desktop\xuatfile\GUI_QLSQA\GUI_QLSQA\obj\Debug\GUI_QLSQA.FReportHDCT.resources
+C:\Users\longnh\Desktop\xuatfile\GUI_QLSQA\GUI_QLSQA\obj\Debug\GUI_QLSQA.FSanpham.resources
+C:\Users\longnh\Desktop\xuatfile\GUI_QLSQA\GUI_QLSQA\obj\Debug\GUI_QLSQA.FThanhToans.resources
+C:\Users\longnh\Desktop\xuatfile\GUI_QLSQA\GUI_QLSQA\obj\Debug\GUI_QLSQA.FThongKeCT.resources
+C:\Users\longnh\Desktop\xuatfile\GUI_QLSQA\GUI_QLSQA\obj\Debug\GUI_QLSQA.FThongtinNV.resources
+C:\Users\longnh\Desktop\xuatfile\GUI_QLSQA\GUI_QLSQA\obj\Debug\GUI_QLSQA.FVanchuyen.resources
+C:\Users\longnh\Desktop\xuatfile\GUI_QLSQA\GUI_QLSQA\obj\Debug\GUI_QLSQA.FXacNhanQMK.resources
+C:\Users\longnh\Desktop\xuatfile\GUI_QLSQA\GUI_QLSQA\obj\Debug\GUI_QLSQA.Properties.Resources.resources
+C:\Users\longnh\Desktop\xuatfile\GUI_QLSQA\GUI_QLSQA\obj\Debug\GUI_QLSQA.csproj.GenerateResource.cache
+C:\Users\longnh\Desktop\xuatfile\GUI_QLSQA\GUI_QLSQA\obj\Debug\GUI_QLSQA.csproj.CoreCompileInputs.cache
+C:\Users\longnh\Desktop\xuatfile\GUI_QLSQA\GUI_QLSQA\obj\Debug\GUI_QLSQA.csproj.CopyComplete
+C:\Users\longnh\Desktop\xuatfile\GUI_QLSQA\GUI_QLSQA\obj\Debug\GUI_QLSQA.exe
+C:\Users\longnh\Desktop\xuatfile\GUI_QLSQA\GUI_QLSQA\obj\Debug\GUI_QLSQA.pdb
+C:\Users\longnh\Desktop\xuatfile\GUI_QLSQA\GUI_QLSQA\bin\Debug\DUAN_ShopQA.mdf
+C:\Users\longnh\Desktop\xuatfile\GUI_QLSQA\GUI_QLSQA\bin\Debug\DUAN_ShopQA_log.ldf
+D:\BaiHoc\DuAn1\Code\GUI_QLSQA\GUI_QLSQA\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\BaiHoc\DuAn1\Code\GUI_QLSQA\GUI_QLSQA\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\BaiHoc\DuAn1\Code\GUI_QLSQA\GUI_QLSQA\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\BaiHoc\DuAn1\Code\GUI_QLSQA\GUI_QLSQA\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\BaiHoc\DuAn1\Code\GUI_QLSQA\GUI_QLSQA\bin\Debug\DUAN_ShopQA.mdf
+D:\BaiHoc\DuAn1\Code\GUI_QLSQA\GUI_QLSQA\bin\Debug\DUAN_ShopQA_log.ldf
+D:\BaiHoc\DuAn1\Code\GUI_QLSQA\GUI_QLSQA\bin\Debug\GUI_QLSQA.exe.config
+D:\BaiHoc\DuAn1\Code\GUI_QLSQA\GUI_QLSQA\bin\Debug\GUI_QLSQA.exe
+D:\BaiHoc\DuAn1\Code\GUI_QLSQA\GUI_QLSQA\bin\Debug\GUI_QLSQA.pdb
+D:\BaiHoc\DuAn1\Code\GUI_QLSQA\GUI_QLSQA\bin\Debug\AxShockwaveFlashObjects.dll
+D:\BaiHoc\DuAn1\Code\GUI_QLSQA\GUI_QLSQA\bin\Debug\BUS_QLSQA.dll
+D:\BaiHoc\DuAn1\Code\GUI_QLSQA\GUI_QLSQA\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\BaiHoc\DuAn1\Code\GUI_QLSQA\GUI_QLSQA\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\BaiHoc\DuAn1\Code\GUI_QLSQA\GUI_QLSQA\bin\Debug\CrystalDecisions.Shared.dll
+D:\BaiHoc\DuAn1\Code\GUI_QLSQA\GUI_QLSQA\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\BaiHoc\DuAn1\Code\GUI_QLSQA\GUI_QLSQA\bin\Debug\DTO_QLSQA.dll
+D:\BaiHoc\DuAn1\Code\GUI_QLSQA\GUI_QLSQA\bin\Debug\EPPlus.dll
+D:\BaiHoc\DuAn1\Code\GUI_QLSQA\GUI_QLSQA\bin\Debug\FontAwesome.Sharp.dll
+D:\BaiHoc\DuAn1\Code\GUI_QLSQA\GUI_QLSQA\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+D:\BaiHoc\DuAn1\Code\GUI_QLSQA\GUI_QLSQA\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\BaiHoc\DuAn1\Code\GUI_QLSQA\GUI_QLSQA\bin\Debug\System.ComponentModel.Annotations.dll
+D:\BaiHoc\DuAn1\Code\GUI_QLSQA\GUI_QLSQA\bin\Debug\DAO_QLSQA.dll
+D:\BaiHoc\DuAn1\Code\GUI_QLSQA\GUI_QLSQA\bin\Debug\ShockwaveFlashObjects.dll
+D:\BaiHoc\DuAn1\Code\GUI_QLSQA\GUI_QLSQA\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\BaiHoc\DuAn1\Code\GUI_QLSQA\GUI_QLSQA\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\BaiHoc\DuAn1\Code\GUI_QLSQA\GUI_QLSQA\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\BaiHoc\DuAn1\Code\GUI_QLSQA\GUI_QLSQA\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\BaiHoc\DuAn1\Code\GUI_QLSQA\GUI_QLSQA\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\BaiHoc\DuAn1\Code\GUI_QLSQA\GUI_QLSQA\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\BaiHoc\DuAn1\Code\GUI_QLSQA\GUI_QLSQA\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\BaiHoc\DuAn1\Code\GUI_QLSQA\GUI_QLSQA\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\BaiHoc\DuAn1\Code\GUI_QLSQA\GUI_QLSQA\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\BaiHoc\DuAn1\Code\GUI_QLSQA\GUI_QLSQA\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\BaiHoc\DuAn1\Code\GUI_QLSQA\GUI_QLSQA\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\BaiHoc\DuAn1\Code\GUI_QLSQA\GUI_QLSQA\bin\Debug\stdole.dll
+D:\BaiHoc\DuAn1\Code\GUI_QLSQA\GUI_QLSQA\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\BaiHoc\DuAn1\Code\GUI_QLSQA\GUI_QLSQA\bin\Debug\BUS_QLSQA.pdb
+D:\BaiHoc\DuAn1\Code\GUI_QLSQA\GUI_QLSQA\bin\Debug\DTO_QLSQA.pdb
+D:\BaiHoc\DuAn1\Code\GUI_QLSQA\GUI_QLSQA\bin\Debug\EPPlus.xml
+D:\BaiHoc\DuAn1\Code\GUI_QLSQA\GUI_QLSQA\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+D:\BaiHoc\DuAn1\Code\GUI_QLSQA\GUI_QLSQA\bin\Debug\DAO_QLSQA.pdb
+D:\BaiHoc\DuAn1\Code\GUI_QLSQA\GUI_QLSQA\obj\Debug\GUI_QLSQA.csproj.AssemblyReference.cache
+D:\BaiHoc\DuAn1\Code\GUI_QLSQA\GUI_QLSQA\obj\Debug\GUI_QLSQA.csproj.ResolveComReference.cache
+D:\BaiHoc\DuAn1\Code\GUI_QLSQA\GUI_QLSQA\obj\Debug\GUI_QLSQA.Controls.RJTextbox.resources
+D:\BaiHoc\DuAn1\Code\GUI_QLSQA\GUI_QLSQA\obj\Debug\GUI_QLSQA.FAddKH.resources
+D:\BaiHoc\DuAn1\Code\GUI_QLSQA\GUI_QLSQA\obj\Debug\GUI_QLSQA.FChinhSuaCTDVC.resources
+D:\BaiHoc\DuAn1\Code\GUI_QLSQA\GUI_QLSQA\obj\Debug\GUI_QLSQA.FChiTietSP.resources
+D:\BaiHoc\DuAn1\Code\GUI_QLSQA\GUI_QLSQA\obj\Debug\GUI_QLSQA.FDanhsachhoaDon.resources
+D:\BaiHoc\DuAn1\Code\GUI_QLSQA\GUI_QLSQA\obj\Debug\GUI_QLSQA.FDoanhThu.resources
+D:\BaiHoc\DuAn1\Code\GUI_QLSQA\GUI_QLSQA\obj\Debug\GUI_QLSQA.FDoimatkhau.resources
+D:\BaiHoc\DuAn1\Code\GUI_QLSQA\GUI_QLSQA\obj\Debug\GUI_QLSQA.FDSSanpham.resources
+D:\BaiHoc\DuAn1\Code\GUI_QLSQA\GUI_QLSQA\obj\Debug\GUI_QLSQA.FHienthiChiTietBill.resources
+D:\BaiHoc\DuAn1\Code\GUI_QLSQA\GUI_QLSQA\obj\Debug\GUI_QLSQA.FKhachhang.resources
+D:\BaiHoc\DuAn1\Code\GUI_QLSQA\GUI_QLSQA\obj\Debug\GUI_QLSQA.FLogin.resources
+D:\BaiHoc\DuAn1\Code\GUI_QLSQA\GUI_QLSQA\obj\Debug\GUI_QLSQA.FMainnew.resources
+D:\BaiHoc\DuAn1\Code\GUI_QLSQA\GUI_QLSQA\obj\Debug\GUI_QLSQA.FMucluc.resources
+D:\BaiHoc\DuAn1\Code\GUI_QLSQA\GUI_QLSQA\obj\Debug\GUI_QLSQA.FNhanvien.resources
+D:\BaiHoc\DuAn1\Code\GUI_QLSQA\GUI_QLSQA\obj\Debug\GUI_QLSQA.FQLGiamGia.resources
+D:\BaiHoc\DuAn1\Code\GUI_QLSQA\GUI_QLSQA\obj\Debug\GUI_QLSQA.FReportHDCT.resources
+D:\BaiHoc\DuAn1\Code\GUI_QLSQA\GUI_QLSQA\obj\Debug\GUI_QLSQA.FSanpham.resources
+D:\BaiHoc\DuAn1\Code\GUI_QLSQA\GUI_QLSQA\obj\Debug\GUI_QLSQA.FThanhToans.resources
+D:\BaiHoc\DuAn1\Code\GUI_QLSQA\GUI_QLSQA\obj\Debug\GUI_QLSQA.FThongKeCT.resources
+D:\BaiHoc\DuAn1\Code\GUI_QLSQA\GUI_QLSQA\obj\Debug\GUI_QLSQA.FThongtinNV.resources
+D:\BaiHoc\DuAn1\Code\GUI_QLSQA\GUI_QLSQA\obj\Debug\GUI_QLSQA.FVanchuyen.resources
+D:\BaiHoc\DuAn1\Code\GUI_QLSQA\GUI_QLSQA\obj\Debug\GUI_QLSQA.FXacNhanQMK.resources
+D:\BaiHoc\DuAn1\Code\GUI_QLSQA\GUI_QLSQA\obj\Debug\GUI_QLSQA.Properties.Resources.resources
+D:\BaiHoc\DuAn1\Code\GUI_QLSQA\GUI_QLSQA\obj\Debug\GUI_QLSQA.csproj.GenerateResource.cache
+D:\BaiHoc\DuAn1\Code\GUI_QLSQA\GUI_QLSQA\obj\Debug\GUI_QLSQA.csproj.CoreCompileInputs.cache
+D:\BaiHoc\DuAn1\Code\GUI_QLSQA\GUI_QLSQA\obj\Debug\GUI_QLSQA.csproj.CopyComplete
+D:\BaiHoc\DuAn1\Code\GUI_QLSQA\GUI_QLSQA\obj\Debug\GUI_QLSQA.exe
+D:\BaiHoc\DuAn1\Code\GUI_QLSQA\GUI_QLSQA\obj\Debug\GUI_QLSQA.pdb
+C:\Users\ASUS\Desktop\For_Study\Hocki4\Du_An1\New folder\GUI_QLSQA\GUI_QLSQA\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\ASUS\Desktop\For_Study\Hocki4\Du_An1\New folder\GUI_QLSQA\GUI_QLSQA\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\ASUS\Desktop\For_Study\Hocki4\Du_An1\New folder\GUI_QLSQA\GUI_QLSQA\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\ASUS\Desktop\For_Study\Hocki4\Du_An1\New folder\GUI_QLSQA\GUI_QLSQA\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\ASUS\Desktop\For_Study\Hocki4\Du_An1\New folder\GUI_QLSQA\GUI_QLSQA\bin\Debug\DUAN_ShopQA.mdf
+C:\Users\ASUS\Desktop\For_Study\Hocki4\Du_An1\New folder\GUI_QLSQA\GUI_QLSQA\bin\Debug\DUAN_ShopQA_log.ldf
+C:\Users\ASUS\Desktop\For_Study\Hocki4\Du_An1\New folder\GUI_QLSQA\GUI_QLSQA\bin\Debug\GUI_QLSQA.exe.config
+C:\Users\ASUS\Desktop\For_Study\Hocki4\Du_An1\New folder\GUI_QLSQA\GUI_QLSQA\bin\Debug\GUI_QLSQA.exe
+C:\Users\ASUS\Desktop\For_Study\Hocki4\Du_An1\New folder\GUI_QLSQA\GUI_QLSQA\bin\Debug\GUI_QLSQA.pdb
+C:\Users\ASUS\Desktop\For_Study\Hocki4\Du_An1\New folder\GUI_QLSQA\GUI_QLSQA\bin\Debug\BUS_QLSQA.dll
+C:\Users\ASUS\Desktop\For_Study\Hocki4\Du_An1\New folder\GUI_QLSQA\GUI_QLSQA\bin\Debug\DTO_QLSQA.dll
+C:\Users\ASUS\Desktop\For_Study\Hocki4\Du_An1\New folder\GUI_QLSQA\GUI_QLSQA\bin\Debug\EPPlus.dll
+C:\Users\ASUS\Desktop\For_Study\Hocki4\Du_An1\New folder\GUI_QLSQA\GUI_QLSQA\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\ASUS\Desktop\For_Study\Hocki4\Du_An1\New folder\GUI_QLSQA\GUI_QLSQA\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\ASUS\Desktop\For_Study\Hocki4\Du_An1\New folder\GUI_QLSQA\GUI_QLSQA\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\ASUS\Desktop\For_Study\Hocki4\Du_An1\New folder\GUI_QLSQA\GUI_QLSQA\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\ASUS\Desktop\For_Study\Hocki4\Du_An1\New folder\GUI_QLSQA\GUI_QLSQA\bin\Debug\DAO_QLSQA.dll
+C:\Users\ASUS\Desktop\For_Study\Hocki4\Du_An1\New folder\GUI_QLSQA\GUI_QLSQA\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\ASUS\Desktop\For_Study\Hocki4\Du_An1\New folder\GUI_QLSQA\GUI_QLSQA\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\ASUS\Desktop\For_Study\Hocki4\Du_An1\New folder\GUI_QLSQA\GUI_QLSQA\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\ASUS\Desktop\For_Study\Hocki4\Du_An1\New folder\GUI_QLSQA\GUI_QLSQA\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\ASUS\Desktop\For_Study\Hocki4\Du_An1\New folder\GUI_QLSQA\GUI_QLSQA\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\ASUS\Desktop\For_Study\Hocki4\Du_An1\New folder\GUI_QLSQA\GUI_QLSQA\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\ASUS\Desktop\For_Study\Hocki4\Du_An1\New folder\GUI_QLSQA\GUI_QLSQA\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\ASUS\Desktop\For_Study\Hocki4\Du_An1\New folder\GUI_QLSQA\GUI_QLSQA\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\ASUS\Desktop\For_Study\Hocki4\Du_An1\New folder\GUI_QLSQA\GUI_QLSQA\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\ASUS\Desktop\For_Study\Hocki4\Du_An1\New folder\GUI_QLSQA\GUI_QLSQA\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\ASUS\Desktop\For_Study\Hocki4\Du_An1\New folder\GUI_QLSQA\GUI_QLSQA\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\ASUS\Desktop\For_Study\Hocki4\Du_An1\New folder\GUI_QLSQA\GUI_QLSQA\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\ASUS\Desktop\For_Study\Hocki4\Du_An1\New folder\GUI_QLSQA\GUI_QLSQA\bin\Debug\stdole.dll
+C:\Users\ASUS\Desktop\For_Study\Hocki4\Du_An1\New folder\GUI_QLSQA\GUI_QLSQA\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\ASUS\Desktop\For_Study\Hocki4\Du_An1\New folder\GUI_QLSQA\GUI_QLSQA\bin\Debug\BUS_QLSQA.pdb
+C:\Users\ASUS\Desktop\For_Study\Hocki4\Du_An1\New folder\GUI_QLSQA\GUI_QLSQA\bin\Debug\DTO_QLSQA.pdb
+C:\Users\ASUS\Desktop\For_Study\Hocki4\Du_An1\New folder\GUI_QLSQA\GUI_QLSQA\bin\Debug\EPPlus.xml
+C:\Users\ASUS\Desktop\For_Study\Hocki4\Du_An1\New folder\GUI_QLSQA\GUI_QLSQA\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\ASUS\Desktop\For_Study\Hocki4\Du_An1\New folder\GUI_QLSQA\GUI_QLSQA\bin\Debug\DAO_QLSQA.pdb
+C:\Users\ASUS\Desktop\For_Study\Hocki4\Du_An1\New folder\GUI_QLSQA\GUI_QLSQA\obj\Debug\GUI_QLSQA.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\For_Study\Hocki4\Du_An1\New folder\GUI_QLSQA\GUI_QLSQA\obj\Debug\GUI_QLSQA.csproj.ResolveComReference.cache
+C:\Users\ASUS\Desktop\For_Study\Hocki4\Du_An1\New folder\GUI_QLSQA\GUI_QLSQA\obj\Debug\GUI_QLSQA.Controls.RJTextbox.resources
+C:\Users\ASUS\Desktop\For_Study\Hocki4\Du_An1\New folder\GUI_QLSQA\GUI_QLSQA\obj\Debug\GUI_QLSQA.FAddKH.resources
+C:\Users\ASUS\Desktop\For_Study\Hocki4\Du_An1\New folder\GUI_QLSQA\GUI_QLSQA\obj\Debug\GUI_QLSQA.FChinhSuaCTDVC.resources
+C:\Users\ASUS\Desktop\For_Study\Hocki4\Du_An1\New folder\GUI_QLSQA\GUI_QLSQA\obj\Debug\GUI_QLSQA.FChiTietSP.resources
+C:\Users\ASUS\Desktop\For_Study\Hocki4\Du_An1\New folder\GUI_QLSQA\GUI_QLSQA\obj\Debug\GUI_QLSQA.FDanhsachhoaDon.resources
+C:\Users\ASUS\Desktop\For_Study\Hocki4\Du_An1\New folder\GUI_QLSQA\GUI_QLSQA\obj\Debug\GUI_QLSQA.FDoanhThu.resources
+C:\Users\ASUS\Desktop\For_Study\Hocki4\Du_An1\New folder\GUI_QLSQA\GUI_QLSQA\obj\Debug\GUI_QLSQA.FDoimatkhau.resources
+C:\Users\ASUS\Desktop\For_Study\Hocki4\Du_An1\New folder\GUI_QLSQA\GUI_QLSQA\obj\Debug\GUI_QLSQA.FDSSanpham.resources
+C:\Users\ASUS\Desktop\For_Study\Hocki4\Du_An1\New folder\GUI_QLSQA\GUI_QLSQA\obj\Debug\GUI_QLSQA.FHienthiChiTietBill.resources
+C:\Users\ASUS\Desktop\For_Study\Hocki4\Du_An1\New folder\GUI_QLSQA\GUI_QLSQA\obj\Debug\GUI_QLSQA.FKhachhang.resources
+C:\Users\ASUS\Desktop\For_Study\Hocki4\Du_An1\New folder\GUI_QLSQA\GUI_QLSQA\obj\Debug\GUI_QLSQA.FLogin.resources
+C:\Users\ASUS\Desktop\For_Study\Hocki4\Du_An1\New folder\GUI_QLSQA\GUI_QLSQA\obj\Debug\GUI_QLSQA.FMainnew.resources
+C:\Users\ASUS\Desktop\For_Study\Hocki4\Du_An1\New folder\GUI_QLSQA\GUI_QLSQA\obj\Debug\GUI_QLSQA.FMucluc.resources
+C:\Users\ASUS\Desktop\For_Study\Hocki4\Du_An1\New folder\GUI_QLSQA\GUI_QLSQA\obj\Debug\GUI_QLSQA.FNhanvien.resources
+C:\Users\ASUS\Desktop\For_Study\Hocki4\Du_An1\New folder\GUI_QLSQA\GUI_QLSQA\obj\Debug\GUI_QLSQA.FQLGiamGia.resources
+C:\Users\ASUS\Desktop\For_Study\Hocki4\Du_An1\New folder\GUI_QLSQA\GUI_QLSQA\obj\Debug\GUI_QLSQA.FReportHDCT.resources
+C:\Users\ASUS\Desktop\For_Study\Hocki4\Du_An1\New folder\GUI_QLSQA\GUI_QLSQA\obj\Debug\GUI_QLSQA.FSanpham.resources
+C:\Users\ASUS\Desktop\For_Study\Hocki4\Du_An1\New folder\GUI_QLSQA\GUI_QLSQA\obj\Debug\GUI_QLSQA.FThanhToans.resources
+C:\Users\ASUS\Desktop\For_Study\Hocki4\Du_An1\New folder\GUI_QLSQA\GUI_QLSQA\obj\Debug\GUI_QLSQA.FThongKeCT.resources
+C:\Users\ASUS\Desktop\For_Study\Hocki4\Du_An1\New folder\GUI_QLSQA\GUI_QLSQA\obj\Debug\GUI_QLSQA.FThongtinNV.resources
+C:\Users\ASUS\Desktop\For_Study\Hocki4\Du_An1\New folder\GUI_QLSQA\GUI_QLSQA\obj\Debug\GUI_QLSQA.FVanchuyen.resources
+C:\Users\ASUS\Desktop\For_Study\Hocki4\Du_An1\New folder\GUI_QLSQA\GUI_QLSQA\obj\Debug\GUI_QLSQA.FXacNhanQMK.resources
+C:\Users\ASUS\Desktop\For_Study\Hocki4\Du_An1\New folder\GUI_QLSQA\GUI_QLSQA\obj\Debug\GUI_QLSQA.Properties.Resources.resources
+C:\Users\ASUS\Desktop\For_Study\Hocki4\Du_An1\New folder\GUI_QLSQA\GUI_QLSQA\obj\Debug\GUI_QLSQA.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\For_Study\Hocki4\Du_An1\New folder\GUI_QLSQA\GUI_QLSQA\obj\Debug\GUI_QLSQA.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\For_Study\Hocki4\Du_An1\New folder\GUI_QLSQA\GUI_QLSQA\obj\Debug\GUI_QLSQA.csproj.CopyComplete
+C:\Users\ASUS\Desktop\For_Study\Hocki4\Du_An1\New folder\GUI_QLSQA\GUI_QLSQA\obj\Debug\GUI_QLSQA.exe
+C:\Users\ASUS\Desktop\For_Study\Hocki4\Du_An1\New folder\GUI_QLSQA\GUI_QLSQA\obj\Debug\GUI_QLSQA.pdb
